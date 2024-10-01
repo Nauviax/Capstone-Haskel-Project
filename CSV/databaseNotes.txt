@@ -1,0 +1,20 @@
+Regression (Multiple Regression technically)
+    salaryCSV            1 in 1 out
+    diabetesCSV         10 in 1 out
+
+Classification (Multinomial)
+AND KNN (lBk in Weka)	
+    irisCSV              4 in 1 out (3 classes)    
+
+    (Didn't come w headers so just added dummy ones. They're popular datasets though so they're somewhere)
+    glass		 9 in 1 out (7 classes)
+    sonar	   like 60 in 1 out (2 classes)
+
+
+Datasets for Benchmarking:
+
+Regression: House_8L
+https://openml.org/search?type=data&sort=runs&status=active&id=218
+
+Classification: Spambase
+https://openml.org/search?type=data&sort=runs&status=active&id=44
