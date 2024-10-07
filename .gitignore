@@ -1,14 +1,16 @@
-# Project related .gitignore stuff
+# Project related .gitignore stuff	
 .vscode
 dist-newstyle
+
+# Haskell misc files generated after GHC compilation
+*.hi
+*.o
+*.exe
 
 # Random files I've created that don't need to be in the repo
 # (Ideally I remove these files AND this section from the .gitignore before the end of the project)
 TEMP Report stuffs
-Functionality Notes.txt
 Haskell Progress Update Memo.pdf
 Haskell_Lit_Review.pdf
 Main Notes.rtf
-OLD Functionality Notes.rtf
-Project Notes.txt
 Results.txt
